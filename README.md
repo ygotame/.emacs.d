@@ -9,15 +9,16 @@ Key bindings are expressed as follows:
 
 <kbd>Meta</kbd> is usually <kbd>Alt</kbd> or <kbd>Opt</kbd> on PC or Mac keyboards.
 
-To open the shell : <b>`M-x shell`</b>
-* Run a subshell with input and output through an Emacs buffer. You can then give commands interactively.
+To open the shell 
+* Run a subshell wth input and output through an Emacs buffer. You can then give commands interactively.
+<b> `M-x shell` </b> Open the shell
 
-`C-x C-b:`	List Buffers
+<b> `C-x C-b:` </b>	List Buffers
 
-`C-x 0:`	 	Change Window
+<b> `C-x 0:` </b>	 	Change Window
 
-`C-x 1:`	 	Change Window
+<b> `C-x 1:` </b>	 	Change Window
 
-`C-x 2:`	 	Split Window
+<b> `C-x 2:` </b>	 	Split Window
 
-`C-x 3:`	 	Split Window
+<b> `C-x 3:` </b>	 	Split Window
