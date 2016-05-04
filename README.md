@@ -25,3 +25,4 @@ Key bindings are expressed as follows:
 Source : 
 - https://www.gnu.org/software/emacs/manual/html_node/emacs/Key-Index.html#Key-Index
 - https://github.com/jasonm23/emacs-cheat-sheets
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
