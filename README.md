@@ -11,3 +11,13 @@ Key bindings are expressed as follows:
 
 To open the shell : <b>`M-x shell`</b>
 * Run a subshell with input and output through an Emacs buffer. You can then give commands interactively.
+
+`C-x C-b:`	List Buffers
+
+`C-x 0:`	 	Change Window
+
+`C-x 1:`	 	Change Window
+
+`C-x 2:`	 	Split Window
+
+`C-x 3:`	 	Split Window
