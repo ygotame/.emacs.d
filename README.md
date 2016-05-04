@@ -21,3 +21,7 @@ Key bindings are expressed as follows:
 <b> `C-x 2:` </b>	 	Split Window
 
 <b> `C-x 3:` </b>	 	Split Window
+
+Source : 
+1. https://www.gnu.org/software/emacs/manual/html_node/emacs/Key-Index.html#Key-Index
+2. https://github.com/jasonm23/emacs-cheat-sheets
